@@ -7,8 +7,8 @@ The impending closure of the L train is said to impact countless commuters who r
 
 
 ### For further information please visit our websites: 
-* oisincorbett.github.io/
-* jgadasi.github.io/East-Village/
-* arv-ind.github.io/Ridgewood/
+* [Bushwick](oisincorbett.github.io/)
+* [Ridgewood](jgadasi.github.io/East-Village/)
+* [East Village](arv-ind.github.io/Ridgewood/)
 
 
