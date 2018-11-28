@@ -1,5 +1,5 @@
 # L-Train Closures
-==================
+___
 ## Oisin Corbett, Arvind Dev, & Joshua Gadasi
 The impending closure of the L train is said to impact countless commuters who rely on the train for transportation. We analyzed the effects of this closure in three different neighborhoods—Bushwick, Ridgewood, and East Village—and formulated potential ways to mitigate the effects. 
 
